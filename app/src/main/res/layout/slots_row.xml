@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/linear"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/slotborder"
+    android:layout_marginTop="10dp"
+    android:layout_marginStart="15dp"
+    android:padding="25dp"
+    android:layout_marginEnd="15dp"
+    android:gravity="center"
+    android:weightSum="3"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingStart="20dp"
+        android:orientation="vertical"
+        android:layout_weight="2.5">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:fontFamily="@font/futura_medium"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:id="@+id/pushid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:visibility="gone"
+            android:textColor="@color/black"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="0.5">
+
+        <ImageView
+            android:id="@+id/selector"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_empty"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1068842878670",
+    "firebase_url": "https://vexetalbox-d4790.firebaseio.com",
+    "project_id": "vexetalbox-d4790",
+    "storage_bucket": "vexetalbox-d4790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068842878670:android:8d20e8bcbf5fc59c1c729f",
+        "android_client_info": {
+          "package_name": "rohan.groups.vexetalbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068842878670-44b3fgrls0rlkqh8ch4qj3ma03hvaofq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rohan.groups.vexetalbox",
+            "certificate_hash": "662ab3276aa3df49fe7521f4bc2aee8343491682"
+          }
+        },
+        {
+          "client_id": "1068842878670-og4pm1va8hqcsuipviedhqa9d3i77b6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rohan.groups.vexetalbox",
+            "certificate_hash": "26cb08f64d7ab14a327cad82f5ccb48a42fccc95"
+          }
+        },
+        {
+          "client_id": "1068842878670-2floh7pcc8d6khq7ghmtu8cfkn2jstq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tqEJk5wBvnK4Yt-91_eMZftbnK0PVCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068842878670-2floh7pcc8d6khq7ghmtu8cfkn2jstq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068842878670:android:493601ccd7b179c81c729f",
+        "android_client_info": {
+          "package_name": "rohan.groups.vexetalboxdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068842878670-drlojph31l62j4j8coqjdgeegvbe8orf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rohan.groups.vexetalboxdelivery",
+            "certificate_hash": "662ab3276aa3df49fe7521f4bc2aee8343491682"
+          }
+        },
+        {
+          "client_id": "1068842878670-9pt7j3v7uknnnsqptchor031t6ruirfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rohan.groups.vexetalboxdelivery",
+            "certificate_hash": "26cb08f64d7ab14a327cad82f5ccb48a42fccc95"
+          }
+        },
+        {
+          "client_id": "1068842878670-2floh7pcc8d6khq7ghmtu8cfkn2jstq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tqEJk5wBvnK4Yt-91_eMZftbnK0PVCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068842878670-2floh7pcc8d6khq7ghmtu8cfkn2jstq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068842878670:android:ad3f717ed22ee5581c729f",
+        "android_client_info": {
+          "package_name": "vexetal.box.vexetalbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068842878670-2floh7pcc8d6khq7ghmtu8cfkn2jstq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tqEJk5wBvnK4Yt-91_eMZftbnK0PVCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068842878670-2floh7pcc8d6khq7ghmtu8cfkn2jstq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
